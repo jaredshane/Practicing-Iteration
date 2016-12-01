@@ -1,3 +1,9 @@
+/* Create an array that contains the names of
+American Presidents. Loop over that array with
+a for loop, and use string concatenation with
+console.log() to output the order and name of
+each President (see example below). */
+
 var presidents =
 ["George Washington",
 "John Adams",
